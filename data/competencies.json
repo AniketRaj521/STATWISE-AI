@@ -1,0 +1,100 @@
+{
+  "roles": [
+    {
+      "role_id": "STAT_OFFICER",
+      "role_name": "Statistical Officer",
+      "competencies": [
+        {
+          "skill_id": "STATISTICS",
+          "skill_name": "Statistics",
+          "target_score": 80,
+          "description": "Understanding of statistical concepts, measures, distributions and statistical methods."
+        },
+        {
+          "skill_id": "PROBABILITY",
+          "skill_name": "Probability",
+          "target_score": 80,
+          "description": "Understanding of probability concepts, conditional probability and probability distributions."
+        },
+        {
+          "skill_id": "DATA_ANALYSIS",
+          "skill_name": "Data Analysis",
+          "target_score": 75,
+          "description": "Ability to clean, analyze and interpret structured datasets."
+        },
+        {
+          "skill_id": "DATA_VISUALIZATION",
+          "skill_name": "Data Visualization",
+          "target_score": 75,
+          "description": "Ability to represent analytical findings using appropriate charts and visualizations."
+        },
+        {
+          "skill_id": "STATISTICAL_COMPUTING",
+          "skill_name": "Statistical Computing",
+          "target_score": 70,
+          "description": "Ability to use computational tools and programming techniques for statistical analysis."
+        }
+      ]
+    },
+    {
+      "role_id": "DATA_ANALYST",
+      "role_name": "Data Analyst",
+      "competencies": [
+        {
+          "skill_id": "STATISTICS",
+          "skill_name": "Statistics",
+          "target_score": 75,
+          "description": "Application of statistical methods for data-driven decision making."
+        },
+        {
+          "skill_id": "DATA_ANALYSIS",
+          "skill_name": "Data Analysis",
+          "target_score": 85,
+          "description": "Ability to transform raw data into meaningful insights."
+        },
+        {
+          "skill_id": "DATA_VISUALIZATION",
+          "skill_name": "Data Visualization",
+          "target_score": 80,
+          "description": "Ability to communicate analytical insights through effective visualizations."
+        },
+        {
+          "skill_id": "STATISTICAL_COMPUTING",
+          "skill_name": "Statistical Computing",
+          "target_score": 75,
+          "description": "Use of programming and computational tools for data analysis."
+        }
+      ]
+    },
+    {
+      "role_id": "RESEARCH_OFFICER",
+      "role_name": "Research Officer",
+      "competencies": [
+        {
+          "skill_id": "STATISTICS",
+          "skill_name": "Statistics",
+          "target_score": 80,
+          "description": "Understanding and application of statistical techniques in research."
+        },
+        {
+          "skill_id": "PROBABILITY",
+          "skill_name": "Probability",
+          "target_score": 75,
+          "description": "Understanding probability principles used in research and statistical inference."
+        },
+        {
+          "skill_id": "DATA_ANALYSIS",
+          "skill_name": "Data Analysis",
+          "target_score": 80,
+          "description": "Ability to analyze research data and identify meaningful patterns."
+        },
+        {
+          "skill_id": "DATA_VISUALIZATION",
+          "skill_name": "Data Visualization",
+          "target_score": 70,
+          "description": "Ability to present research findings using suitable visual formats."
+        }
+      ]
+    }
+  ]
+}

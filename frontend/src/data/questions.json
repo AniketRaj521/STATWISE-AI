@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "question_id": "Q001",
+      "question": "Which measure of central tendency is most affected by extreme values?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Quartile"
+      ],
+      "correct_answer": "Mean",
+      "skill": "Statistics",
+      "difficulty": "Beginner",
+      "explanation": "The mean uses every value in the dataset, so extreme values can significantly change it."
+    },
+    {
+      "question_id": "Q002",
+      "question": "What is the median of the dataset 2, 4, 6, 8, 10?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct_answer": "6",
+      "skill": "Statistics",
+      "difficulty": "Beginner",
+      "explanation": "The median is the middle value when the data is arranged in ascending order."
+    },
+    {
+      "question_id": "Q003",
+      "question": "If the variance of a dataset is zero, what does it indicate?",
+      "options": [
+        "All values are equal",
+        "All values are negative",
+        "The dataset has many outliers",
+        "The mean is zero"
+      ],
+      "correct_answer": "All values are equal",
+      "skill": "Statistics",
+      "difficulty": "Intermediate",
+      "explanation": "Zero variance means there is no variation among the observations."
+    },
+    {
+      "question_id": "Q004",
+      "question": "What is the probability of getting a head when a fair coin is tossed once?",
+      "options": [
+        "0",
+        "0.25",
+        "0.5",
+        "1"
+      ],
+      "correct_answer": "0.5",
+      "skill": "Probability",
+      "difficulty": "Beginner",
+      "explanation": "A fair coin has two equally likely outcomes, so the probability of heads is 1/2."
+    },
+    {
+      "question_id": "Q005",
+      "question": "What is the probability of rolling a 6 on a fair six-sided die?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "1/12"
+      ],
+      "correct_answer": "1/6",
+      "skill": "Probability",
+      "difficulty": "Beginner",
+      "explanation": "There is one favorable outcome out of six equally likely outcomes."
+    },
+    {
+      "question_id": "Q006",
+      "question": "If P(A) = 0.5 and P(B|A) = 0.4, what is P(A and B)?",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.4",
+        "0.9"
+      ],
+      "correct_answer": "0.2",
+      "skill": "Probability",
+      "difficulty": "Intermediate",
+      "explanation": "P(A and B) = P(A) × P(B|A) = 0.5 × 0.4 = 0.2."
+    },
+    {
+      "question_id": "Q007",
+      "question": "Which technique is commonly used to handle missing numerical values?",
+      "options": [
+        "Imputation",
+        "Encryption",
+        "Rendering",
+        "Compilation"
+      ],
+      "correct_answer": "Imputation",
+      "skill": "Data Analysis",
+      "difficulty": "Beginner",
+      "explanation": "Imputation replaces missing values using statistical or model-based methods."
+    },
+    {
+      "question_id": "Q008",
+      "question": "What is the primary purpose of Exploratory Data Analysis (EDA)?",
+      "options": [
+        "Understand patterns and relationships in data",
+        "Encrypt the dataset",
+        "Create user accounts",
+        "Compress files"
+      ],
+      "correct_answer": "Understand patterns and relationships in data",
+      "skill": "Data Analysis",
+      "difficulty": "Beginner",
+      "explanation": "EDA helps analysts understand distributions, patterns, relationships and anomalies in data."
+    },
+    {
+      "question_id": "Q009",
+      "question": "Which chart is generally suitable for comparing values across different categories?",
+      "options": [
+        "Bar chart",
+        "Scatter plot",
+        "Histogram",
+        "Box plot"
+      ],
+      "correct_answer": "Bar chart",
+      "skill": "Data Visualization",
+      "difficulty": "Beginner",
+      "explanation": "Bar charts are commonly used to compare quantities across discrete categories."
+    },
+    {
+      "question_id": "Q010",
+      "question": "Which visualization is most suitable for examining the relationship between two numerical variables?",
+      "options": [
+        "Pie chart",
+        "Scatter plot",
+        "Bar chart",
+        "Stacked area chart"
+      ],
+      "correct_answer": "Scatter plot",
+      "skill": "Data Visualization",
+      "difficulty": "Intermediate",
+      "explanation": "A scatter plot displays paired numerical observations and helps reveal relationships or correlations."
+    },
+    {
+      "question_id": "Q011",
+      "question": "Which Python library is primarily used for working with tabular data?",
+      "options": [
+        "Pandas",
+        "Matplotlib",
+        "Flask",
+        "Requests"
+      ],
+      "correct_answer": "Pandas",
+      "skill": "Statistical Computing",
+      "difficulty": "Beginner",
+      "explanation": "Pandas provides DataFrame and Series structures for working with structured and tabular data."
+    },
+    {
+      "question_id": "Q012",
+      "question": "Which Python library is commonly used for numerical array operations?",
+      "options": [
+        "NumPy",
+        "Flask",
+        "Django",
+        "BeautifulSoup"
+      ],
+      "correct_answer": "NumPy",
+      "skill": "Statistical Computing",
+      "difficulty": "Beginner",
+      "explanation": "NumPy provides efficient multidimensional arrays and numerical computing functions."
+    },
+    {
+      "question_id": "Q013",
+      "question": "What does the correlation coefficient measure?",
+      "options": [
+        "Strength and direction of a linear relationship",
+        "Number of missing values",
+        "Size of a dataset",
+        "Number of categories"
+      ],
+      "correct_answer": "Strength and direction of a linear relationship",
+      "skill": "Statistics",
+      "difficulty": "Intermediate",
+      "explanation": "Correlation describes the strength and direction of a linear association between two variables."
+    },
+    {
+      "question_id": "Q014",
+      "question": "Which method can be used to identify unusually distant observations in a dataset?",
+      "options": [
+        "Outlier detection",
+        "Data encryption",
+        "File compression",
+        "Web scraping"
+      ],
+      "correct_answer": "Outlier detection",
+      "skill": "Data Analysis",
+      "difficulty": "Intermediate",
+      "explanation": "Outlier detection identifies observations that differ substantially from the general pattern of the data."
+    },
+    {
+      "question_id": "Q015",
+      "question": "Which Python library is widely used for creating charts and plots?",
+      "options": [
+        "Matplotlib",
+        "NumPy",
+        "Pandas",
+        "FastAPI"
+      ],
+      "correct_answer": "Matplotlib",
+      "skill": "Data Visualization",
+      "difficulty": "Beginner",
+      "explanation": "Matplotlib is a widely used Python library for creating static charts and visualizations."
+    }
+  ]
+}

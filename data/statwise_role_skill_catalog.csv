@@ -1,0 +1,101 @@
+role,domain,skill,target_score,priority
+Statistical Officer,Statistics,Statistics,85,High
+Statistical Officer,Statistics,Probability,80,High
+Statistical Officer,Statistics,Data Analysis,75,Medium
+Statistical Officer,Statistics,Data Visualization,70,Medium
+Statistical Officer,Statistics,Statistical Computing,65,Low
+Data Analyst,Statistics,Statistics,85,High
+Data Analyst,Statistics,Data Analysis,80,High
+Data Analyst,Statistics,Data Visualization,75,Medium
+Data Analyst,Statistics,Statistical Computing,70,Medium
+Data Analyst,Computer Science,SQL,65,Low
+Research Officer,Statistics,Statistics,85,High
+Research Officer,Public Policy,Research Methods,80,High
+Research Officer,Statistics,Data Analysis,75,Medium
+Research Officer,Public Policy,Report Writing,70,Medium
+Research Officer,Statistics,Data Visualization,65,Low
+Economist,Economics,Econometrics,85,High
+Economist,Statistics,Statistics,80,High
+Economist,Economics,Economic Analysis,75,Medium
+Economist,Statistics,Data Analysis,70,Medium
+Economist,Public Policy,Report Writing,65,Low
+Policy Analyst,Public Policy,Policy Analysis,85,High
+Policy Analyst,Statistics,Statistics,80,High
+Policy Analyst,Statistics,Data Analysis,75,Medium
+Policy Analyst,Public Policy,Research Methods,70,Medium
+Policy Analyst,Public Policy,Report Writing,65,Low
+Data Scientist,Data Science,Python,85,High
+Data Scientist,Statistics,Statistics,80,High
+Data Scientist,Data Science,Machine Learning,75,Medium
+Data Scientist,Statistics,Data Analysis,70,Medium
+Data Scientist,Statistics,Data Visualization,65,Low
+Software Engineer,Data Science,Python,85,High
+Software Engineer,Computer Science,JavaScript,80,High
+Software Engineer,Computer Science,SQL,75,Medium
+Software Engineer,Computer Science,Software Engineering,70,Medium
+Software Engineer,Computer Science,Problem Solving,65,Low
+AI Engineer,Data Science,Python,85,High
+AI Engineer,Data Science,Machine Learning,80,High
+AI Engineer,Artificial Intelligence,Deep Learning,75,Medium
+AI Engineer,Artificial Intelligence,NLP,70,Medium
+AI Engineer,Computer Science,Software Engineering,65,Low
+Database Administrator,Computer Science,SQL,85,High
+Database Administrator,General,Database Management,80,High
+Database Administrator,General,Data Security,75,Medium
+Database Administrator,Data Science,Python,70,Medium
+Database Administrator,Computer Science,Problem Solving,65,Low
+Project Manager,Administration,Project Management,85,High
+Project Manager,Education,Communication,80,High
+Project Manager,General,Leadership,75,Medium
+Project Manager,Computer Science,Problem Solving,70,Medium
+Project Manager,Statistics,Data Analysis,65,Low
+HR Officer,General,Human Resources,85,High
+HR Officer,Education,Communication,80,High
+HR Officer,Statistics,Data Analysis,75,Medium
+HR Officer,General,Labour Laws,70,Medium
+HR Officer,Public Policy,Report Writing,65,Low
+Finance Officer,Finance,Financial Analysis,85,High
+Finance Officer,Finance,Accounting,80,High
+Finance Officer,Statistics,Statistics,75,Medium
+Finance Officer,Finance,Excel,70,Medium
+Finance Officer,Statistics,Data Visualization,65,Low
+Agriculture Officer,Agriculture,Agricultural Science,85,High
+Agriculture Officer,Statistics,Statistics,80,High
+Agriculture Officer,Statistics,Data Analysis,75,Medium
+Agriculture Officer,Agriculture,GIS,70,Medium
+Agriculture Officer,Public Policy,Report Writing,65,Low
+Biotechnology Faculty,Biotechnology,Molecular Biology,85,High
+Biotechnology Faculty,Biotechnology,Genetic Engineering,80,High
+Biotechnology Faculty,Biotechnology,Bioinformatics,75,Medium
+Biotechnology Faculty,Biotechnology,Laboratory Techniques,70,Medium
+Biotechnology Faculty,Statistics,Data Analysis,65,Low
+Public Health Officer,Public Health,Epidemiology,85,High
+Public Health Officer,Public Health,Biostatistics,80,High
+Public Health Officer,Statistics,Data Analysis,75,Medium
+Public Health Officer,Public Health,Public Health,70,Medium
+Public Health Officer,Public Policy,Report Writing,65,Low
+Environmental Officer,Environment,Environmental Science,85,High
+Environmental Officer,Statistics,Statistics,80,High
+Environmental Officer,Agriculture,GIS,75,Medium
+Environmental Officer,Statistics,Data Analysis,70,Medium
+Environmental Officer,Public Policy,Report Writing,65,Low
+Education Officer,Education,Education Planning,85,High
+Education Officer,Education,Assessment,80,High
+Education Officer,Statistics,Data Analysis,75,Medium
+Education Officer,Education,Communication,70,Medium
+Education Officer,Education,Learning Design,65,Low
+Cybersecurity Analyst,Cybersecurity,Cybersecurity,85,High
+Cybersecurity Analyst,Cybersecurity,Network Security,80,High
+Cybersecurity Analyst,Data Science,Python,75,Medium
+Cybersecurity Analyst,Statistics,Data Analysis,70,Medium
+Cybersecurity Analyst,Cybersecurity,Risk Management,65,Low
+Legal Officer,General,Legal Research,85,High
+Legal Officer,Public Policy,Policy Analysis,80,High
+Legal Officer,Education,Communication,75,Medium
+Legal Officer,Public Policy,Report Writing,70,Medium
+Legal Officer,Cybersecurity,Risk Management,65,Low
+Administrative Officer,Administration,Administration,85,High
+Administrative Officer,Education,Communication,80,High
+Administrative Officer,Statistics,Data Analysis,75,Medium
+Administrative Officer,Public Policy,Report Writing,70,Medium
+Administrative Officer,Administration,Project Management,65,Low

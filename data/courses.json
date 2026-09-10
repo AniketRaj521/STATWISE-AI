@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "course_id": "STAT101",
+      "title": "Statistics Fundamentals",
+      "skill": "Statistics",
+      "level": "Beginner",
+      "duration_hours": 4,
+      "description": "Learn the fundamentals of descriptive and inferential statistics.",
+      "topics": [
+        "Mean, Median and Mode",
+        "Variance and Standard Deviation",
+        "Probability Distributions",
+        "Statistical Inference"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "STAT201",
+      "title": "Advanced Statistical Methods",
+      "skill": "Statistics",
+      "level": "Advanced",
+      "duration_hours": 6,
+      "description": "Apply advanced statistical methods for professional data analysis.",
+      "topics": [
+        "Hypothesis Testing",
+        "Correlation",
+        "Regression",
+        "ANOVA"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "PROB101",
+      "title": "Probability Fundamentals",
+      "skill": "Probability",
+      "level": "Beginner",
+      "duration_hours": 4,
+      "description": "Build a strong foundation in probability concepts and calculations.",
+      "topics": [
+        "Events",
+        "Sample Space",
+        "Conditional Probability",
+        "Bayes Theorem"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "PROB201",
+      "title": "Probability Distributions",
+      "skill": "Probability",
+      "level": "Intermediate",
+      "duration_hours": 5,
+      "description": "Understand and apply important probability distributions.",
+      "topics": [
+        "Binomial Distribution",
+        "Poisson Distribution",
+        "Normal Distribution",
+        "Expected Value"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "DA101",
+      "title": "Data Analysis Fundamentals",
+      "skill": "Data Analysis",
+      "level": "Beginner",
+      "duration_hours": 5,
+      "description": "Learn how to clean, explore and interpret datasets.",
+      "topics": [
+        "Data Cleaning",
+        "Exploratory Data Analysis",
+        "Missing Values",
+        "Outlier Detection"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "DA201",
+      "title": "Advanced Data Analysis",
+      "skill": "Data Analysis",
+      "level": "Advanced",
+      "duration_hours": 7,
+      "description": "Develop advanced analytical skills for extracting insights from datasets.",
+      "topics": [
+        "Feature Engineering",
+        "Statistical Analysis",
+        "Pattern Detection",
+        "Data Interpretation"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "DV101",
+      "title": "Data Visualization Fundamentals",
+      "skill": "Data Visualization",
+      "level": "Beginner",
+      "duration_hours": 3,
+      "description": "Learn how to communicate data insights using effective visualizations.",
+      "topics": [
+        "Bar Charts",
+        "Line Charts",
+        "Pie Charts",
+        "Scatter Plots"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "DV201",
+      "title": "Advanced Data Visualization",
+      "skill": "Data Visualization",
+      "level": "Advanced",
+      "duration_hours": 5,
+      "description": "Create advanced and interactive visualizations for analytical reporting.",
+      "topics": [
+        "Dashboard Design",
+        "Interactive Charts",
+        "Storytelling with Data",
+        "Visualization Best Practices"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "SC101",
+      "title": "Python for Statistical Computing",
+      "skill": "Statistical Computing",
+      "level": "Beginner",
+      "duration_hours": 6,
+      "description": "Learn Python programming techniques used in statistical analysis.",
+      "topics": [
+        "Python Basics",
+        "NumPy",
+        "Pandas",
+        "Basic Statistical Analysis"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    },
+    {
+      "course_id": "SC201",
+      "title": "Advanced Statistical Computing",
+      "skill": "Statistical Computing",
+      "level": "Advanced",
+      "duration_hours": 7,
+      "description": "Apply Python-based computational techniques to advanced statistical problems.",
+      "topics": [
+        "Pandas Analysis",
+        "Scikit-learn",
+        "Statistical Modeling",
+        "Data Pipelines"
+      ],
+      "source": "STATWISE AI Learning Catalog"
+    }
+  ]
+}
